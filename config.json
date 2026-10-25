@@ -20,5 +20,32 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "창원대학교 중앙도서관": {
+      "style": "glass",
+      "wall": "#c9a35a",
+      "glass": "#4f7472",
+      "frame": "#8c9696"
+    },
+    "경상대학": {
+      "style": "brick",
+      "wall": "#8b4a3e",
+      "glass": "#2e3438",
+      "frame": "#6e4a40"
+    },
+    "봉림관": {
+      "style": "glass",
+      "wall": "#c6c9cb",
+      "glass": "#3b5a6e",
+      "frame": "#5b4a42"
+    },
+    "공대 5호관 (55호관)": {
+      "style": "tan",
+      "wall": "#d4c8b8",
+      "glass": "#3d6b6b",
+      "frame": "#c9c9c6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
